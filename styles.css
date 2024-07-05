@@ -1,0 +1,11 @@
+*{
+    scroll-behaviour:smooth;
+  }
+  img{
+    display:block;
+  }
+  #image{
+    max-width:100%;
+    HEIGHT:auto;
+    align-item:center;   justify-content:center;
+  }
